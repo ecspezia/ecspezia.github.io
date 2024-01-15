@@ -1,0 +1,244 @@
+/* 
+ Theme Name:     EduTheme
+ Author:         Argo Software s.r.l.
+ Author URI:     http://www.argoweb.net
+ Template:       design-italia
+ Version:        3.10
+*/ 
+
+#wt-cli-privacy-save-btn {color:#000; background:#fff;}
+
+.wprpsp-post-slides .wprpsp-post-cats-wrap ul.post-categories li:nth-child(4n+1) a { background: #7d3737; }
+.wprpsp-post-slides .wprpsp-post-cats-wrap ul.post-categories li:nth-child(4n+2) a { background: #123f5e; }
+.menu-moreaction-argo span {
+        padding: 0em 0.4em;
+}
+
+.menu-moreaction-argo {
+    font-size: 90%;
+    display: flex;
+}
+
+.moreaction-argo {
+    font-size: 90%;
+    display: flex;
+}
+
+.entry-content .alignfull-argo {
+    margin-right: calc( -100vw/2 + 50%/2 );
+    width: 100vw;
+}
+
+#header-widget-area {
+    padding: 0px;
+}
+
+/* sistemazione menu */
+.menu-main .nav li li {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: solid 1px rgba(255, 255, 255, .4);
+  box-shadow: 10px;
+}
+ul.sub-menu li {
+  z-index: 99999;
+  position: relative;
+  display: inline-block;
+  background: #fff;
+}
+
+.nav li ul.sub-menu {
+  box-shadow: 0 10px 20px -5px #555;
+  z-index: 99999;
+}
+
+/* fine sistemazione menu */
+
+
+.it-header-wrapper .it-nav-wrapper .it-header-navbar-wrapper nav {
+  background-color: #2872c7;
+}
+
+.so-widget-sow-button-flat-fde51816d38b .ow-button-base a {
+  text-align: left;
+  height: 100% !important;
+}
+
+.it-header-slim-wrapper {
+  background-color: #30373d;
+  padding-top: 0.5em;
+}
+
+
+#footer .widget-title {
+  padding-bottom: 0em;
+}
+
+.container-fluid.widget-area {
+  padding-bottom: 15px;
+}
+
+#footer ul li {
+  padding-bottom: 0em;
+}
+
+#footer ul a {
+  color: #65dde0;
+}
+
+.dashicons.dashicons-admin-users {
+    vertical-align: sub;
+}
+
+
+.wprpsp-recent-post-nav .wprpsp-post-nav-loop .wprpsp-post-noimg {
+  background: url(img/no-image-slide.png) no-repeat center;
+}
+
+/* intestazione */
+
+.it-header-center-wrapper .it-header-center-content-wrapper .it-brand-wrapper a h1 {
+  font-size: 1.778em;
+    margin-bottom: 0;
+  font-weight: 600;
+}
+
+
+.it-header-center-wrapper .it-header-center-content-wrapper .it-brand-wrapper a h2 {
+    font-size: .889em;
+    margin-bottom: 0;
+    font-weight: 400;
+    letter-spacing: unset;
+    line-height: 1.5;
+}
+
+.it-header-center-wrapper .it-header-center-content-wrapper .it-brand-wrapper a h3 {
+    font-size: .889em;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.it-footer-main .it-brand-wrapper a .blogname {
+    font-size: 1.25em;
+    margin-bottom: 0;
+    font-weight: 600;
+    letter-spacing: unset;
+    line-height: 1.1;
+}
+
+
+
+/* fine intestazione */
+
+.link-ministero  {
+  font-weight: 600;
+  padding-left: 5px;
+}
+
+#footer .credit {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+	  font-size:smaller;
+}
+
+#footer .credit a {
+		color:#65dde0;
+	  font-weight:600;
+}
+
+[id$="dettaglio-testo"] p {
+        font-family: "Titillium Web",Geneva,Tahoma,sans-serif;
+}
+
+
+
+
+/* Cerca nel sito */
+
+.it-footer .searchform input[type="text"], .it-header-wrapper .searchform input[type="text"] {
+    color: #828282;
+box-shadow: inset 0 -1px 0px #fff;
+  background: #fff;
+
+}
+
+.searchform input[type="text"], .searchform [type="submit"] {
+    height: auto;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #fff;
+    border: none;
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, .1);
+}
+
+.it-footer .searchform [type="submit"], .it-header-wrapper .searchform [type="submit"] {
+	color: #000;
+    background-color:     #fff;
+    border-radius: 0px;
+    height: auto;
+    width: 48px;
+    margin-left: 0px;
+    padding: 10px;
+}
+
+@media screen and (max-width: 767px) {
+  
+  #header .it-search-wrapper {
+    display: none;
+}
+}
+
+.it-header-center-wrapper .it-header-center-content-wrapper .it-search-wrapper { margin-left:20px; }
+
+/* Fine Cerca nel sito */
+
+/* Rimozione del titolo Allegati */
+.download-attachments {
+
+    font-size: 1.3em;
+    padding-top: 2.5em;
+    font-weight: bold;
+    font-variant: sub;
+}
+
+/* Fine Rimozione del titolo Allegati */
+
+/* Rimuovere la graffetta dai link */
+
+
+.entry-content [href$=".pdf"]:after,
+.entry-content [href$=".doc"]:after,
+.entry-content [href$=".docs"]:after,
+.entry-content [href$=".xls"]:after,
+.entry-content [href$=".xlsx"]:after,
+.entry-content [href$=".zip"]:after {
+        content: none;
+        margin-left: 5px;
+}
+
+/* Fine Rimozione  */
+
+/* Rimuovere pulsanti post precedente e post successivo */ 
+.nav-previous {
+	display:none !important;
+}
+
+.nav-next {
+	display:none !important;
+}
+/* Fine Rimozione  */
+
+.breadcrumb li.breadcrumb-item {
+    text-transform: capitalize!important;
+}
+
+@media (min-width: 667px){
+	.archive .card-columns {display:flex!important;flex-flow: row wrap!important;column-gap: 1em!important;}
+	.archive .widget_category_mansory .card.card-bg {max-width: 32%!important;}
+}
+/*SCROLL TO TOP*/
+#scrolltotop {position: fixed;bottom: 20px;right: 20px;background-color: rgb(21, 92, 140);padding: 8px 14px;border-radius: 50px;cursor: pointer;}
+#scrolltotop:before{content: '\e805';font-family: italia-icon-font;color:#fff!important;font-size:20px;}
