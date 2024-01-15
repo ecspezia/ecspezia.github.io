@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PON &#8211; I. I. S. S. &quot;L. Einaudi &#8211; D. Chiodo&quot;</title>
+	<atom:link href="https://sg26033.argo206-psc.com/category/pon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sg26033.argo206-psc.com</link>
+	<description>LA SPEZIA - tel. 0187737762</description>
+	<lastBuildDate>Wed, 24 May 2023 11:42:09 +0000</lastBuildDate>
+	<language>it-IT</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>PON CARE</title>
+		<link>https://sg26033.argo206-psc.com/pon-care/</link>
+		
+		<dc:creator><![CDATA[SPIS007007]]></dc:creator>
+		<pubDate>Wed, 24 May 2023 10:55:18 +0000</pubDate>
+				<category><![CDATA[PON]]></category>
+		<guid isPermaLink="false">/?p=6226</guid>
+
+					<description><![CDATA[DECRETO DI ASSUNZIONE A BILANCIO Fondi Strutturali Europei — Programma Operativo Nazionale “Per la scuola, competenze e ambienti per /“opprendimento” 2014-2020. Asse I &#8211; Istruzione ... ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Avviso 33956</title>
+		<link>https://sg26033.argo206-psc.com/avviso-33956/</link>
+		
+		<dc:creator><![CDATA[SPIS007007]]></dc:creator>
+		<pubDate>Wed, 12 Apr 2023 15:00:18 +0000</pubDate>
+				<category><![CDATA[PON]]></category>
+		<guid isPermaLink="false">/?p=6127</guid>
+
+					<description><![CDATA[20/04/2023 Decreto di approvazione della graduatoria definitiva per gli incarichi Tutor tramite bando perpersonale interno-collaborazioni plurime- esterni timbro_Proroga decreto di approvazione della graduatoria definitiva_signed 14/04/2023 ... ]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PON &#8211; Reti LAN/WLAN</title>
+		<link>https://sg26033.argo206-psc.com/pon-reti-lan-wlan/</link>
+		
+		<dc:creator><![CDATA[davide ragazzo]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2020 09:32:56 +0000</pubDate>
+				<category><![CDATA[PON]]></category>
+		<guid isPermaLink="false">/?p=787</guid>
+
+					<description><![CDATA[Clicca qui per maggiori informazioni.]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PON &#8211; Ambienti Digitali</title>
+		<link>https://sg26033.argo206-psc.com/pon-ambienti-digitali/</link>
+		
+		<dc:creator><![CDATA[davide ragazzo]]></dc:creator>
+		<pubDate>Fri, 17 Jan 2020 09:30:28 +0000</pubDate>
+				<category><![CDATA[PON]]></category>
+		<guid isPermaLink="false">/?p=784</guid>
+
+					<description><![CDATA[Clicca qui per maggiori informazioni.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
